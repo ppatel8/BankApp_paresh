@@ -1,7 +1,7 @@
 package com.capgemini.beans;
 
 public class Account {
-
+ 
 	int accountNumber; 
 	public int getAccountNumber() {
 		return accountNumber;
